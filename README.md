@@ -1,2 +1,4 @@
-# TangNano9K-Invaders
-Space Invaders Arcade synthesized on a Tang Nano 9K FPGA Board.
+# TN9K-Invaders
+![Model](TN9K-Invaders.jpg)
+
+Space Invaders Arcade vhdl code ported to a Tang Nano 9K FPGA Board. Works with VGA Monitor. See original author notes.
